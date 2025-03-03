@@ -4,7 +4,7 @@ Task: Use a for loop to write a program that asks the user for a positive intege
 **Example input:**
 Enter a number: 5
 
-/*
+*
 /**
 /*/*/*
 /*/*/*/*
